@@ -5,7 +5,7 @@ import CityComponent from "./modules/CityComponent";
 import WeatherComponent from "./modules/WeatherInfoComponent";
 
 export const WeatherIcons = {
-  "01d": "../icons/sunny.svg",
+  "01d": "../icons/sunny.svg",  // место ../ weather-react-app on dev mode
   "01n": "../icons/night.svg",
   "02d": "../icons/day.svg",
   "02n": "../icons/cloudy-night.svg",
