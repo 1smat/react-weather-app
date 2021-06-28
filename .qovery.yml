@@ -1,0 +1,11 @@
+---
+application:
+  name: "react-weather-app"
+  project: "react-weather-app"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-react-weather-app"
+  routes:
+  - application_name: "react-weather-app"
+    paths:
+    - "/*"
